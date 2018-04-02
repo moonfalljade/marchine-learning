@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 20 13:31:39 2018
-
-@author: Luna
-"""
 
 from __future__ import print_function, division
 import tensorflow as tf
