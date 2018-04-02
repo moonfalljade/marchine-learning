@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 17 01:33:46 2018
-加利福尼亚房屋数据-莫烦的方法
-@author: Luna
-"""
+
 from __future__ import print_function, division
 import numpy as np
 import pandas as pd
